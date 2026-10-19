@@ -334,6 +334,11 @@ inputs."nixpkgs".lib.extend (
         githubId = 106609173;
         name = "Yoan Wainmann";
       };
+      InsightFactoryAPP = {
+        github = "InsightFactoryAPP";
+        githubId = 168487014;
+        name = "InsightFactoryAPP";
+      };
     };
   }
 )
